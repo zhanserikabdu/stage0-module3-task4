@@ -5,9 +5,9 @@ public class SettingTypes {
        long  first = 10_000_000_000L;
        char  second = 'a';
        boolean third = 5 > 9;
-       double forth = 12.90434323324342d;
+       double forth = 12.90434323324342;
        float   fifth = 12.3F;
-       int sixth = 1;
-       short  seventh = 129;
+       short sixth = 1;
+       int  seventh = 129;
     }
 }
